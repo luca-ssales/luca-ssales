@@ -3,8 +3,8 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 💻 Atualmente estudando:
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 - JavaScript
 - Python
 
