@@ -3,10 +3,15 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 💻 Atualmente estudando:
-- HTML 5
-- CSS 3
-- JavaScript
-- Python
+
+* HTML 5
+* CSS 3
+* JavaScript
+* Python
+* Flask
+* SQLite
+* Visual Studio Code
+* Google AI (Antigravity)
 
 🚀 Construindo projetos para desenvolver minhas habilidades e criar um portfólio sólido.
 
@@ -16,8 +21,17 @@
 
 ### 🚀 Tecnologias
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/> </p>
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="45" height="45" alt="Google AI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
@@ -41,6 +55,6 @@
 
 ### 📈 GitHub Stats
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-ssales&show_icons=true&theme=github_dark)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luca-ssales\&show_icons=true\&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-ssales&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-ssales\&layout=compact\&theme=github_dark)
