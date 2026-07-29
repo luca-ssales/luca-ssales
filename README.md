@@ -1,15 +1,5 @@
 <h1 align="center">Olá, eu sou Lucas Sales 👋</h1>
 
-<h3 align="center">
-💻 Desenvolvedor Full Stack em formação • Python • Flask • JavaScript
-</h3>
-
-<p align="center">
-Transformando ideias em aplicações reais através da programação.
-</p>
-
----
-
 ## 🚀 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
@@ -103,24 +93,6 @@ Permite criar QR Codes instantaneamente para textos e links.
 - Google AI (Antigravity)
 - Boas práticas de desenvolvimento
 - Arquitetura de Software
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=luca-ssales&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-ssales&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</p>
 
 ---
 
