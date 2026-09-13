@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)2/5**
 
 💡 Apaixonado por tecnologia, desenvolvimento web e Inteligência Artificial.
 
@@ -93,20 +93,8 @@ Permite criar QR Codes instantaneamente para textos e links.
 - Google AI (Antigravity)
 - Boas práticas de desenvolvimento
 - Arquitetura de Software
-
+  
 ---
-
-## 🎯 Objetivos para 2026
-
-- ✅ Conseguir minha primeira oportunidade como Desenvolvedor
-- 🔥 Evoluir o AstroControl para um SaaS completo
-- 📚 Aprender React
-- 📚 Aprender Node.js
-- 🚀 Publicar novos projetos Full Stack
-- 🌎 Melhorar meu inglês técnico
-
----
-
 ## 📫 Contato
 
 <p>
