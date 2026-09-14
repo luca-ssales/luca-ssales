@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)2/5**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS) 2/5**
 
 💡 Apaixonado por tecnologia, desenvolvimento web e Inteligência Artificial.
 
