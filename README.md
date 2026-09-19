@@ -115,4 +115,4 @@ Permite criar QR Codes instantaneamente para textos e links.
 
 ---
 
-> 💙 "Primeiro faça funcionar. Depois faça bonito. Por fim, faça escalar."
+>"Primeiro faça funcionar. Depois faça bonito. Por fim, faça escalar."
