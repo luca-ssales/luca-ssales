@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Lucas Sales
 
-### Desenvolvedor em formação | ADS | Full Stack | IA & IoT
+### Desenvolvedor em formação | ADS | Dev Web | IA & IoT
 
 Transformando ideias em projetos reais através de código.
 
