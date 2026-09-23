@@ -136,7 +136,7 @@ Entre os projetos:
 ## 🧠 Atualmente estudando
 
 ```text
-▸ Desenvolvimento Full Stack
+▸ Desenvolvimento web
 ▸ Python & Flask
 ▸ JavaScript
 ▸ APIs REST
