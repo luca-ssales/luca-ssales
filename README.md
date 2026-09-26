@@ -1,196 +1,81 @@
+# Hey 👽! Sou o Lucas Sales
+
+Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de **Análise e Desenvolvimento de Sistemas**, Técnico em Administração e venho construindo minha experiência na área de tecnologia através de projetos práticos, desenvolvimento web e programação.
+
+Atualmente, tenho focado meus estudos em **Python, Flask, JavaScript, SQL e desenvolvimento de aplicações**, além de explorar novas tecnologias e ferramentas no dia a dia. 👨‍💻
+
+### 💻 Projetos em Destaque
+
+* 🎫 **Gerador de Tickets:** Aplicação web desenvolvida com **Python, Flask, HTML e CSS**, criada durante minha formação no SENAI. Permite gerar e organizar tickets de atendimento através de uma interface simples e funcional.
+
+* 📊 **B3 Vision:** Aplicação web para visualização de informações do mercado financeiro, desenvolvida com **Python e Streamlit**, utilizando API para consulta de dados de ações.
+
+* 🚀 **AstroControl:** Projeto web desenvolvido para gerenciamento e organização de informações, utilizando **Python, Flask, JavaScript e SQL**, com aplicação publicada na web.
+
+* 🤖 **Projetos com IA Generativa:** Experiência prática utilizando ferramentas de **IA Generativa para desenvolvimento de aplicações**, explorando geração de código, estruturação de projetos e resolução de problemas durante o desenvolvimento.
+
+### 🛠️ Meu Arsenal (Tech Stack)
+
+**Linguagens & Desenvolvimento Web:**
+
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+**Backend & Frameworks:**
+
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+**Banco de Dados & APIs:**
+
+[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/) [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+**Ferramentas & Deploy:**
+
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+
+### 🎓 Formação
+
+* 🎓 **Análise e Desenvolvimento de Sistemas — UNINOVE**
+  Em andamento
+
+* 💼 **Técnico em Administração — E.E. Maria Leoni**
+  Concluído em 2025
+
+* 🇪🇸 **Curso de Espanhol — E.E. Padre Conrado**
+  Concluído em 2025
+
+* 🤖 **Desenvolvimento de Aplicações com IA Generativa — SENAI**
+  Formação prática em desenvolvimento utilizando IA Generativa
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
+  <a href="https://github.com/luca-ssales">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luca-ssales&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas Sales" />
+  </a>
+  <a href="https://github.com/luca-ssales">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luca-ssales&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+  </a>
+</div>
 
-# 👋 Olá, eu sou Lucas Sales
+### ⚡ Curiosidades
 
-### Desenvolvedor em formação | ADS | Dev Web | IA & IoT
+* Se meu código funciona de primeira, provavelmente tem alguma coisa que eu não vi. 👀
+* Demorei para realmente gostar de programação — hoje, não consigo parar de criar projetos.
+* Gosto de transformar ideias em aplicações que realmente funcionem.
+* Também acompanho o mercado financeiro 📈.
 
-Transformando ideias em projetos reais através de código.
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luca-ssales/luca-ssales/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luca-ssales/luca-ssales/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/luca-ssales/luca-ssales/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 📫 Como me encontrar:
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas — 2º semestre**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
-📊 Formado no **Técnico em Administração**, unindo conhecimentos de tecnologia, negócios, organização e resolução de problemas.
-
-💻 Tenho foco em **Desenvolvimento de Software**, criando aplicações web, sistemas, automações e projetos que utilizam APIs.
-
-🧠 Também estou expandindo meus conhecimentos em **Inteligência Artificial, Machine Learning e IoT**.
-
-🚀 Atualmente estou construindo projetos para fortalecer meu portfólio e buscando minha **primeira oportunidade profissional na área de tecnologia**.
-
----
-
-## 🛠️ Tecnologias
-
-### Linguagens
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40">
-</p>
-
-### Back-end e Banco de Dados
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40">
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40">
-</p>
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🛰️ AstroControl
-
-Sistema **SaaS para gestão de lojas físicas**, desenvolvido para centralizar diferentes áreas de uma operação.
-
-**Principais funcionalidades:**
-
-* 📦 Gestão de produtos
-* 📊 Controle de estoque
-* 💰 Registro de vendas
-* 👥 Gestão de clientes
-* 🧑‍💼 Controle de colaboradores
-* 📈 Dashboard administrativo
-
-**Stack:** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
-
----
-
-## 📈 B3 Vision
-
-Aplicação web desenvolvida para consulta e acompanhamento de informações do mercado financeiro brasileiro.
-
-**Principais funcionalidades:**
-
-* Consulta de ações da B3
-* Preço atual e variação
-* Máxima e mínima
-* Volume negociado
-* Histórico de preços
-* Comparação entre ativos
-* Carteira de investimentos
-
-**Stack:** `HTML` `CSS` `JavaScript` `API REST` `Firebase`
-
----
-
-## 🌦️ Pré-visão
-
-Aplicação meteorológica que consome uma API externa para apresentar informações climáticas em tempo real.
-
-**Funcionalidades:**
-
-* 🌡️ Temperatura
-* 💧 Umidade
-* 💨 Velocidade do vento
-* 📍 Geolocalização
-* 🕐 Relógio em tempo real
-
-**Stack:** `HTML` `CSS` `JavaScript` `API REST`
-
----
-
-## 🤖 Robo QR
-
-Gerador de QR Codes desenvolvido para transformar rapidamente textos e links em códigos escaneáveis.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-## 🔌 Arduino & IoT
-
-Repositório dedicado aos meus estudos e experimentos com eletrônica e programação utilizando **Arduino Uno e C++**.
-
-Entre os projetos:
-
-* 💡 Controle de LEDs
-* 🚦 Semáforo automatizado
-* 🔘 Sistemas com botões
-* 🎮 Jogo de reflexo
-* 🧠 Jogo da memória
-* 📟 Displays LCD
-* 🔊 Buzzer e sensores
-
-**Stack:** `C++` `Arduino`
-
----
-
-## 🧠 Atualmente estudando
-
-```text
-▸ Desenvolvimento web
-▸ Python & Flask
-▸ JavaScript
-▸ APIs REST
-▸ Banco de Dados
-▸ Git & GitHub
-▸ Machine Learning
-▸ Inteligência Artificial
-▸ Arduino & IoT
-▸ Arquitetura de Software
-```
-
----
-
-## 🎯 Próximos passos
-
-* Desenvolver aplicações Full Stack mais completas
-* Aprofundar meus conhecimentos em APIs REST
-* Evoluir em arquitetura Back-end
-* Desenvolver projetos utilizando agentes de IA
-* Expandir meus conhecimentos em Machine Learning
-* Criar soluções integrando software e IoT
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=luca-ssales\&show_icons=true\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-ssales\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ssales.luca@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-sales-236a67375)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/devl.ucas/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Sempre construindo, aprendendo e evoluindo.
-
-</div>
-
----
-
->"Primeiro faça funcionar. Depois faça bonito. Por fim, faça escalar."
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luca-ssales)
