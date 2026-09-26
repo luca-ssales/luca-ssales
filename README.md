@@ -8,12 +8,6 @@ Atualmente, tenho focado meus estudos em **Python, Flask, JavaScript, SQL e dese
 
 * 🚀 **AstroControl:** Projeto web desenvolvido para gerenciamento e organização de informações, utilizando **Python, Flask, JavaScript e SQL**, com aplicação publicada na web.
 
-* 🎫 **Gerador de Tickets:** Aplicação web desenvolvida com **Python, Flask, HTML e CSS**, criada durante minha formação no SENAI. Permite gerar e organizar tickets de atendimento através de uma interface simples e funcional.
-
-* 📊 **B3 Vision:** Aplicação web para visualização de informações do mercado financeiro, desenvolvida com **Python e Streamlit**, utilizando API para consulta de dados de ações.
-
-* 🤖 **Projetos com IA Generativa:** Experiência prática utilizando ferramentas de **IA Generativa para desenvolvimento de aplicações**, explorando geração de código, estruturação de projetos e resolução de problemas durante o desenvolvimento.
-
 ### 🛠️ Meu Arsenal (Tech Stack)
 
 **Linguagens & Desenvolvimento Web:**
