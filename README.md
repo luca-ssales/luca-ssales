@@ -68,7 +68,7 @@ Atualmente, tenho focado meus estudos em **Python, Flask, JavaScript, SQL e dese
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 Como me encontrar: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
 
