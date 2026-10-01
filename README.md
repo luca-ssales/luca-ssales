@@ -1,4 +1,4 @@
-# Hey 👽! Sou o Lucas Sales
+# Hey👽! Sou o Lucas Sales
 
 Diretamente de Guarulhos (SP) 🇧🇷. Sou estudante de **Análise e Desenvolvimento de Sistemas**, Técnico em Administração e venho construindo minha experiência na área de tecnologia através de projetos práticos, desenvolvimento web e programação.
 
